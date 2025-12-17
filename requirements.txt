@@ -1,0 +1,6 @@
+pandas
+groq
+Mastodon.py
+huggingface_hub
+Pillow
+openpyxl
